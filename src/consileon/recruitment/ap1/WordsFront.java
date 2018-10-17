@@ -6,7 +6,6 @@ public class WordsFront {
 		for(int i = 0; i < n; i++) {
 			newWords[i] = words[i]; 
 		}
-		
 		return newWords;
 	}
 }

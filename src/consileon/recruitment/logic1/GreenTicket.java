@@ -1,4 +1,4 @@
-package consileon.recruitment.ap1;
+package consileon.recruitment.logic1;
 
 public class GreenTicket {
 	public int greenTicket(int a, int b, int c) {
